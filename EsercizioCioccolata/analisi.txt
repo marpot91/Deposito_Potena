@@ -2,7 +2,7 @@ Dal branch main verranno creati tre branch per sviluppare le diverse tipologie d
 - feature-cioccolatini: creazione della classe Cioccolatino, 
 - feature-tavolette: creazione della classe Tavoletta,
 - feature-cioccolato-caldo: creazione della classe CioccolatoCaldo
-4. Pianificazione delle commit
+Commit:
 - main: creazione del progetto e implementazione della classe base Cioccolato.
 - feature-cioccolatini: creazione della classe cioccolatini
 - feature-tavolette: creazione della classe tavolette 
